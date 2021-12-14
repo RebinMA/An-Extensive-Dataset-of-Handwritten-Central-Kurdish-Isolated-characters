@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## An Extensive Dataset of Handwritten Central Kurdish Isolated characters
 
-You can use the [editor on GitHub](https://github.com/RebinMA/An-Extensive-Dataset-of-Handwritten-Central-Kurdish-Isolated-characters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Data Description
+Central Kurdish (Sorani) is one of two main dialects of the Kurdish language, it is generally thought that Sorani is spoken by about 9 to 10 million people in Iraq and Iran [1,2]. It is mainly written using a modified Arabic/Persian alphabet containing 34 characters, including characters that have been replaced in recent years like (ك) that's no longer been used by the Kurdish language and replaced with (ک). In this work, a comprehensive database has been created for isolated handwritten Central Kurdish character images containing 40,940 images with an average of 1170 images of each character written by 390 native writers. Table 1 shows the number of images and the Percentage of each character in the whole database. The repository in Mendeley1 consists of a samples folder that contains samples of each character, and a zip file containing the whole dataset that is described in this paper.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Value of the Data
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* The dataset is suitable for machine learning models for handwriting recognition.
 
-- Bulleted
-- List
+* Researchers who have an interest in researches of Kurdish/Persian/Arabic language in deep learning and machine learning.
 
-1. Numbered
-2. List
+* This data can be a start for research of a more complex subject of joint characters and word recognition for this specific language.
 
-**Bold** and _Italic_ and `Code` text
+* As it is highly standardized (meaning very carefully sized and formatted) it can be used as a benchmark of quality and usability for future works.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RebinMA/An-Extensive-Dataset-of-Handwritten-Central-Kurdish-Isolated-characters/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [An extensive dataset of Handwritten Central Kurdish Isolated characters.](https://www.sciencedirect.com/science/article/pii/S2352340921007605).
